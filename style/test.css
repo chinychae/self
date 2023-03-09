@@ -1,0 +1,8 @@
+.my_img {
+    display: none;
+    background-color: black;
+}
+ 
+.my_box:hover .my_img {
+    display: block;
+}

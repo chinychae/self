@@ -1,0 +1,237 @@
+body {
+  background-color: black;
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+}
+
+.title {
+  position: absolute;
+  left: 55px;
+  top: 41px;
+  scale: 105%;
+}
+
+.ruler {
+  margin-top: 177px;
+  margin-bottom: 42px;
+}
+
+span {
+  display: block;
+  margin-top: 45px;
+  height: 2px;
+  width: 40px;
+  background-color: rgb(193, 177, 177);
+  margin-left: 30px;
+}
+
+.long {
+  width: 70px;
+}
+
+.dol_1 {
+  position: absolute;
+  top: 388px;
+  Left: 1027px;
+}
+
+.dol_2 {
+  position: absolute;
+  top: 890.84px;
+  Left: 1190px;
+}
+
+.dol_3 {
+  position: absolute;
+  top: 1296px;
+  Left: 462px;
+}
+
+.dol_4 {
+  position: absolute;
+  top: 1824px;
+  Left: 1076px;
+}
+
+.dol_5 {
+  position: absolute;
+  top: 2285px;
+  Left: 305px;
+}
+
+.dol_6 {
+  position: absolute;
+  top: 2589px;
+  Left: 1261px;
+}
+
+.dol_7 {
+  position: absolute;
+  top: 2774px;
+  Left: 518px;
+}
+
+.dol_8 {
+  position: absolute;
+  top: 3404px;
+  Left: 566px;
+}
+
+.dol_9 {
+  position: absolute;
+  top: 3661px;
+  Left: 1130px;
+}
+
+.dol_1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.dol_11 {
+  animation: motion 1s linear 1.5s infinite alternate;
+  margin-top: 0;
+}
+
+.dol_2 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.dol_12 {
+  animation: motion 1s linear 1s infinite alternate;
+  margin-top: 0;
+}
+
+.dol_3 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.dol_13 {
+  animation: motion 1s linear 1.5s infinite alternate;
+  margin-top: 0;
+}
+
+.dol_4 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.dol_14 {
+  animation: motion 1s linear 1.3s infinite alternate;
+  margin-top: 0;
+}
+
+.dol_5 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.dol_15 {
+  animation: motion 1s linear 1.5s infinite alternate;
+  margin-top: 0;
+}
+
+.dol_6 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.dol_16 {
+  animation: motion 1s linear 1.1s infinite alternate;
+  margin-top: 0;
+}
+
+.dol_7 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.dol_17 {
+  animation: motion 1s linear 1.8s infinite alternate;
+  margin-top: 0;
+}
+
+.dol_8 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.dol_18 {
+  animation: motion 1s linear 0.9s infinite alternate;
+  margin-top: 0;
+}
+
+.dol_9 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.dol_19 {
+  animation: motion 1s linear 1.5s infinite alternate;
+  margin-top: 0;
+}
+
+.text_1 {
+  position: absolute;
+  top: 588px;
+  left: 799px;
+}
+
+.text_2 {
+  position: absolute;
+  top: 1106px;
+  left: 960px;
+}
+
+.text_3 {
+  position: absolute;
+  top: 1532px;
+  left: 254px;
+}
+
+.text_4 {
+  position: absolute;
+  top: 2054px;
+  left: 864px;
+}
+
+.text_5 {
+  position: absolute;
+  top: 588px;
+  left: 799px;
+}
+
+.text_6 {
+  position: absolute;
+  top: 588px;
+  left: 799px;
+}
+
+.text_7 {
+  position: absolute;
+  top: 588px;
+  left: 799px;
+}
+
+.text_8 {
+  position: absolute;
+  top: 588px;
+  left: 799px;
+}
+
+.text_9 {
+  position: absolute;
+  top: 588px;
+  left: 799px;
+}
+
+@keyframes motion {
+  0% {
+    margin-top: 0px;
+  }
+  100% {
+    margin-top: 20px;
+  }
+}/*# sourceMappingURL=style.css.map */
